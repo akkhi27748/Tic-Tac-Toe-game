@@ -1,0 +1,56 @@
+.text-center{
+    text-align: center;
+}
+
+.bg-red{
+    background-color: red;
+}
+
+.mx-auto{
+    margin: auto;
+}
+
+.item-center{
+    justify-content: center;
+    align-items: center ;
+}
+
+.flex{
+    display: flex;
+} 
+.flex-col{
+    flex-direction : column;
+}
+
+.operator{
+    background-color: #FF9500
+}
+
+.top-button{
+    color: #1c1c1c;
+    background-color: #D4D4D2;
+}
+
+.rest-button{
+    background-color: #505050;
+}
+
+
+
+.block{
+    display: block;
+}
+
+.item-left{
+    align-items: left;
+    justify-content: left;
+
+}
+
+.item-right{
+    margin-left: auto;
+}
+
+.icons{
+    padding: 0 2px;
+}
